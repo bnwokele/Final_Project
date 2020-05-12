@@ -29,7 +29,7 @@ function processDataForFrontEnd(req, res) {
   fetch(crimeDateURL)
   .then((data) => data.json())
   .then((data) => { 
-    for(let i= 0; i< 200;i++) {
+    for(let i= 0; i< 500;i++) {
       if(data[i].clearance_code_inc_type == "ACCIDENT"){
         let latitude = data[i].latitude; // get the lat and long of the accident incident
         let long= data[i].longitude 
