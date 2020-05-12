@@ -2,9 +2,9 @@
 
 This web application that visualizes the accident incidents that happened within zip code area on a map. When a zip code is selected by the user, we filter latitude and longitude within that zip code for it to be visualized on the map to be easily seen. Oftern, you might need to zoom out to clearly see all the datapoints on the map.
 
- Link to Heroku application: https://inst377accidentincident.herokuapp.com/\s\s
- Target browsers: iOS, Android\s\s
- Link to user's manual: https://inst377accidentincident.herokuapp.com/documentation.html\s\s
+ Link to Heroku application: https://inst377accidentincident.herokuapp.com/ <br/>
+ Target browsers: iOS, Android <br/>
+ Link to user's manual: https://inst377accidentincident.herokuapp.com/documentation.html <br/>
  Link to developer's manual: https://inst377accidentincident.herokuapp.com/documentation.html
 
 # Goal
