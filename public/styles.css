@@ -1,7 +1,6 @@
 /* Set document default styles for text */
 body{
     margin: 0;
-    padding: 0;
     background: white;
     padding: 1%;
     
@@ -27,6 +26,10 @@ body{
 
 .summary{
     display: block;
+    
 }
 
-
+.dropdown{
+    text-align: center;
+    padding: 1%;
+}
