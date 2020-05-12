@@ -4,8 +4,8 @@ This web application that visualizes the accident incidents that happened within
 
 link to Heroku application: https://inst377accidentincident.herokuapp.com/
 Target browsers: iOS, Android
-link to user's manual:
-link to developer's manual: developer manual is below
+link to user's manual: https://inst377accidentincident.herokuapp.com/documentation.html
+link to developer's manual: https://inst377accidentincident.herokuapp.com/documentation.html
 # Goal
 We want commuters figuring out the safest and quickest path for their commute to work or school to be an safe proccess, so please open this application on a web browser from a desktop or laptop. Although you will be able to find the app functional on mobile iOs and Android devices, for your safety, we have built the plaftorm to run best from home, where you will have the best experience for mapping your next trip around town or for simply keeping an eye out for criminal hotspots. 
 
