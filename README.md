@@ -2,10 +2,10 @@
 
 This web application that visualizes the accident incidents that happened within zip code area on a map. When a zip code is selected by the user, we filter latitude and longitude within that zip code for it to be visualized on the map to be easily seen. Oftern, you might need to zoom out to clearly see all the datapoints on the map.
 
- -link to Heroku application: https://inst377accidentincident.herokuapp.com/
- -Target browsers: iOS, Android
- -link to user's manual: https://inst377accidentincident.herokuapp.com/documentation.html
- -link to developer's manual: https://inst377accidentincident.herokuapp.com/documentation.html
+ Link to Heroku application: https://inst377accidentincident.herokuapp.com/  \s\s
+ Target browsers: iOS, Android \s\s
+ Link to user's manual: https://inst377accidentincident.herokuapp.com/documentation.html \s\s
+ Link to developer's manual: https://inst377accidentincident.herokuapp.com/documentation.html \s\s
 
 # Goal
 We want commuters figuring out the safest and quickest path for their commute to work or school to be an safe proccess, so please open this application on a web browser from a desktop or laptop. Although you will be able to find the app functional on mobile iOs and Android devices, for your safety, we have built the plaftorm to run best from home, where you will have the best experience for mapping your next trip around town or for simply keeping an eye out for criminal hotspots. 
