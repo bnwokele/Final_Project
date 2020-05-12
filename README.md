@@ -30,6 +30,8 @@ PUT - While using the application, users can plot the data points for multiple z
 # A clear set of expectations around known bugs and a road-map for future development.
 Currently, there is a bug on the application that requires you to reload the page after you initially get to the website to be able to view all the zipcodes from the drop-down menu. When you first get the website, only a few zip codes are available in the drop-down menu, but reloading/refreshing the page delivers the remaining zip codes. 
 
+Additionally, the api we are using to get the zip codes for a home address only allows 20,000 requests per hour for an account. So if the website is used too oftern and the 20,000 requests are used up, no zip code will appear in the drop down menu
+
 # Road-map for future development:
   - Insert another map so that users can select two zip codes at the same time and easily compare crime data between them.
   - Make use of the data that is sent back to the server from the post and put request. One idea might be to send back the streets where the  accidents happened in each zip code that is selected.
